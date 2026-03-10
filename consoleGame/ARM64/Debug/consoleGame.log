@@ -1,0 +1,3 @@
+﻿  consoleGame.cpp
+C:\Mac\Home\Documents\VS\OAiP\consoleGame\consoleGame\consoleGame.cpp(9,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  consoleGame.vcxproj -> C:\Mac\Home\Documents\VS\OAiP\consoleGame\ARM64\Debug\consoleGame.exe
